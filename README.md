@@ -1,6 +1,7 @@
 # i_am_rich
 
-A new Flutter application.
+A basic app.
+![](https://github.com/ElmouradiAmine/I-am-rich/blob/master/images/Capture%20d’écran%202019-05-10%20à%2016.30.31.png)
 
 ## Getting Started
 
